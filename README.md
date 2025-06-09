@@ -16,18 +16,18 @@ A responsive and interactive personal dashboard that gamifies daily check-ins. U
 
 ---
 
-## 🖼️ Live Demo
+## Live Demo
 
 [🔗 View on Netlify (replace this with your link)](https://your-project.netlify.app)
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gamified-dashboard.git
+git clone https://github.com/Sahildyno/Entry-Level-Full-Stack-Option-No.-01--Sahil_Gawade.git
 cd gamified-dashboard
 
 
