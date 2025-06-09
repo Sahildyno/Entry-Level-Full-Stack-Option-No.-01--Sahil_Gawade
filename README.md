@@ -39,17 +39,17 @@ App will run at: http://localhost:3000
 
 ## Folder Structure
 pgsql
-gamified-dashboard/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── XPChart.jsx       # XP Line Chart component
-│   ├── App.js                # Main dashboard logic
-│   ├── App.css               # Styles
-│   └── index.js              # React entry point
-├── package.json
-└── README.md
+-gamified-dashboard/
+-├── public/
+-│   └── index.html
+-├── src/
+-│   ├── components/
+-│   │   └── XPChart.jsx       # XP Line Chart component
+-│   ├── App.js                # Main dashboard logic
+-│   ├── App.css               # Styles
+-│   └── index.js              # React entry point
+-├── package.json
+-└── README.md
 
 ## Tech Stack
 React.js — Frontend Library
