@@ -26,18 +26,18 @@ A responsive and interactive personal dashboard that gamifies daily check-ins. U
 
 ### Clone the Repository
 
-**git clone https://github.com/Sahildyno/Entry-Level-Full-Stack-Option-No.-01--Sahil_Gawade.git
+git clone https://github.com/Sahildyno/Entry-Level-Full-Stack-Option-No.-01--Sahil_Gawade.git
 cd gamified-dashboard
 
 
-Install Dependencies
+## Install Dependencies
 
 npm install
 Start the App
 npm start
 App will run at: http://localhost:3000
 
-🔧 Folder Structure
+## Folder Structure
 pgsql
 gamified-dashboard/
 ├── public/
@@ -50,14 +50,17 @@ gamified-dashboard/
 │   └── index.js              # React entry point
 ├── package.json
 └── README.md
-📦 Tech Stack
+
+## Tech Stack
 React.js — Frontend Library
 
 Chart.js + react-chartjs-2 — XP Line Chart
 
 CSS Flexbox & Media Queries — Responsive Styling
 
-useState + useEffect — React Hooks**
+useState + useEffect — React Hooks
+
+## Feature List
 
 | Feature               | Description                                                                   |
 | ----------------------| ----------------------------------------------------------------------------- |
