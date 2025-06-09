@@ -18,7 +18,7 @@ A responsive and interactive personal dashboard that gamifies daily check-ins. U
 
 ## Live Demo
 
-[🔗 View on Netlify (replace this with your link)](https://your-project.netlify.app)
+[🔗 View on Netlify (replace this with your link)](https://phenomenal-kelpie-a1167e.netlify.app/)
 
 ---
 
@@ -26,7 +26,6 @@ A responsive and interactive personal dashboard that gamifies daily check-ins. U
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/Sahildyno/Entry-Level-Full-Stack-Option-No.-01--Sahil_Gawade.git
 cd gamified-dashboard
 
