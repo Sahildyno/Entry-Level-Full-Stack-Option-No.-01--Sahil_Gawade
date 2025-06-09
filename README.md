@@ -26,7 +26,7 @@ A responsive and interactive personal dashboard that gamifies daily check-ins. U
 
 ### Clone the Repository
 
-git clone https://github.com/Sahildyno/Entry-Level-Full-Stack-Option-No.-01--Sahil_Gawade.git
+<!-- git clone https://github.com/Sahildyno/Entry-Level-Full-Stack-Option-No.-01--Sahil_Gawade.git
 cd gamified-dashboard
 
 
@@ -57,7 +57,7 @@ Chart.js + react-chartjs-2 — XP Line Chart
 
 CSS Flexbox & Media Queries — Responsive Styling
 
-useState + useEffect — React Hooks
+useState + useEffect — React Hooks -->
 
 | Feature               | Description                                                                   |
 | ----------------------| ----------------------------------------------------------------------------- |
