@@ -18,7 +18,7 @@ A responsive and interactive personal dashboard that gamifies daily check-ins. U
 
 ## Live Demo
 
-[🔗 View on Netlify (replace this with your link)](https://phenomenal-kelpie-a1167e.netlify.app/)
+[🔗[ View on Netlify (https://phenomenal-kelpie-a1167e.netlify.app/)]]
 
 ---
 
